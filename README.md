@@ -1,1 +1,1 @@
-Projeto de estudo focado desenvolvimemto html usando Bootstrap
+Projeto de estudo focado em desenvolvimemto html usando Bootstrap
